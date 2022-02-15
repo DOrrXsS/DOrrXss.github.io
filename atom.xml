@@ -3,11 +3,11 @@
   <title>a self owned room</title>
   
   
-  <link href="https://github.com/DOrrXsS/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/DOrrXsS/"/>
+  <link href="http://example.com/"/>
   <updated>2022-02-15T12:31:28.059Z</updated>
-  <id>https://github.com/DOrrXsS/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>paprika</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/DOrrXsS/2022/02/15/hello-world/"/>
-    <id>https://github.com/DOrrXsS/2022/02/15/hello-world/</id>
+    <link href="http://example.com/2022/02/15/hello-world/"/>
+    <id>http://example.com/2022/02/15/hello-world/</id>
     <published>2022-02-15T12:31:28.059Z</published>
     <updated>2022-02-15T12:31:28.059Z</updated>
     
