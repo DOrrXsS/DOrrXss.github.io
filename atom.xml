@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-02-20T14:56:07.344Z</updated>
+  <updated>2022-02-15T12:31:28.059Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,26 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>zhanshuang-dev-record</title>
-    <link href="http://example.com/2022/02/16/zhanshuang-dev-record/"/>
-    <id>http://example.com/2022/02/16/zhanshuang-dev-record/</id>
-    <published>2022-02-15T16:53:18.000Z</published>
-    <updated>2022-02-20T14:56:07.344Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="step-1-web-dev"><a href="#step-1-web-dev" class="headerlink" title="step 1:web_dev"></a>step 1:web_dev</h2><p>gatsby + (striapi + graphQL)</p><h3 id="v-1"><a href="#v-1" class="headerlink" title="v.1"></a>v.1</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">|- pages</span><br><span class="line">|- index</span><br><span class="line">|- data </span><br><span class="line">        |- characters</span><br><span class="line">            |- general</span><br><span class="line">            |- unique</span><br><span class="line">        |- assists</span><br><span class="line">        |- awareness</span><br><span class="line">    |- news</span><br></pre></td></tr></table></figure><h2 id="step-2-app-dev"><a href="#step-2-app-dev" class="headerlink" title="step 2:app_dev"></a>step 2:app_dev</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;step-1-web-dev&quot;&gt;&lt;a href=&quot;#step-1-web-dev&quot; class=&quot;headerlink&quot; title=&quot;step 1:web_dev&quot;&gt;&lt;/a&gt;step 1:web_dev&lt;/h2&gt;&lt;p&gt;gatsby + (striapi + gr</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
