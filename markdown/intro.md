@@ -1,5 +1,5 @@
 ---
-title: 什么是Redux
+title: intro
 date: 2021-10-13
 slug: 简介
 description: aaa
